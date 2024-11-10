@@ -6,7 +6,7 @@ The list is organized in a timeline and separated into [Open Source](#open-sourc
 
 ## Open Source
 
-| Initial Commit                                                                                                                | Name                                                                                 | Platform | Links                                              |
+| Initial Commit                                                                                                                | Software                                                                             | Platform | Extra Links                                        |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------- | -------------------------------------------------- |
 | [2022-12-20](https://github.com/VikParuchuri/researcher/commit/9ef2793dbeeb75a871ac9a171f77b50f1ed00acf)                      | [Researcher](https://github.com/VikParuchuri/researcher)                             | Web      |                                                    |
 | [2023-02-19](https://github.com/mckaywrigley/clarity-ai/commit/868b5259d91aad797a08a192846666a47f71c3c7)                      | [Clarity AI](https://github.com/mckaywrigley/clarity-ai)                             | Web      |                                                    |
@@ -38,7 +38,7 @@ The list is organized in a timeline and separated into [Open Source](#open-sourc
 
 ## Closed Source
 
-| Launch Date                                                                                                                                          | Name                                    | Platform |
+| Launch Date                                                                                                                                          | Software                                | Platform |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | -------- |
 | [2022-12-07](https://news.ycombinator.com/item?id=33897884)                                                                                          | [Perplexity](https://perplexity.ai)     | Web      |
 | [2022-12-23](https://news.ycombinator.com/item?id=34110738)                                                                                          | [You.com](http://you.com)               | Web      |
