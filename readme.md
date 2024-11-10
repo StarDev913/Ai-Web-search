@@ -38,19 +38,20 @@ The list is organized in a timeline and separated into [Open Source](#open-sourc
 
 ## Closed Source
 
-| Launch Date                                                                                                                                          | Software                                | Platform |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | -------- |
-| [2022-12-07](https://news.ycombinator.com/item?id=33897884)                                                                                          | [Perplexity](https://perplexity.ai)     | Web      |
-| [2022-12-23](https://news.ycombinator.com/item?id=34110738)                                                                                          | [You.com](http://you.com)               | Web      |
-| [2024-01-04](https://www.producthunt.com/products/aoyo-ai/launches)                                                                                  | [aoyo.ai](https://aoyo.ai/)             | Web      |
-| [2024-01-24](https://so.360.com/agreement/privacy)                                                                                                   | [360AI](https://so.360.com/)            | Web      |
-| [2024-01-25](https://news.ycombinator.com/item?id=39126200)                                                                                          | [Msty](https://msty.app/)               | Desktop  |
-| [2024-02-27](https://community.deeplearning.ai/t/xdash-a-free-ai-powered-real-time-search-engine-https-www-xdash-ai/579309)                          | [Xdash AI](https://www.xdash.ai/)       | Web      |
-| [2024-03-27](https://blog.csdn.net/qq_46106285/article/details/137062200)                                                                            | [Metaso.cn](https://metaso.cn/)         | Web      |
-| [2024-04-25](https://dailynexus.com/2024-05-16/making-sure-its-correkt-a-group-of-ucsb-students-set-out-to-revolutionize-the-ethics-of-ai-chatbots/) | [Correkt.ai](https://correkt.ai/)       | Web      |
-| [2024-05-27](https://www.reddit.com/r/SideProject/comments/1d20yb8/introducing_mixmyai/)                                                             | [MixMyAI](https://mixmyai.com/)         | Web      |
-| [2024-06-24](https://www.producthunt.com/products/devv-ai/launches)                                                                                  | [Devv.AI](https://devv.ai)              | Web      |
-| [2024-07-09](https://www.reddit.com/r/AISearchEngine_miku/)                                                                                          | [Miku AI](https://hellomiku.com/)       | Web      |
-| [2024-07-16](https://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models/)                                       | [Exa Search](https://exa.ai/search)     | Web      |
-| [2024-08-06](https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/)                             | [Compute](https://compute.hyper.space/) | Web      |
-| [2024-09-11](https://blog.iask.ai/hey-were-iask-ai-903c3dcdec39)                                                                                     | [iAsk Ai](http://iask.ai)               | Web      |
+| Launch Date                                                                                                                                          | Software                                             | Platform |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------- |
+| [2022-12-07](https://news.ycombinator.com/item?id=33897884)                                                                                          | [Perplexity](https://perplexity.ai)                  | Web      |
+| [2022-12-23](https://news.ycombinator.com/item?id=34110738)                                                                                          | [You.com](http://you.com)                            | Web      |
+| [2024-01-04](https://www.producthunt.com/products/aoyo-ai/launches)                                                                                  | [aoyo.ai](https://aoyo.ai/)                          | Web      |
+| [2024-01-24](https://so.360.com/agreement/privacy)                                                                                                   | [360AI](https://so.360.com/)                         | Web      |
+| [2024-01-25](https://news.ycombinator.com/item?id=39126200)                                                                                          | [Msty](https://msty.app/)                            | Desktop  |
+| [2024-02-27](https://community.deeplearning.ai/t/xdash-a-free-ai-powered-real-time-search-engine-https-www-xdash-ai/579309)                          | [Xdash AI](https://www.xdash.ai/)                    | Web      |
+| [2024-03-27](https://blog.csdn.net/qq_46106285/article/details/137062200)                                                                            | [Metaso.cn](https://metaso.cn/)                      | Web      |
+| [2024-04-25](https://dailynexus.com/2024-05-16/making-sure-its-correkt-a-group-of-ucsb-students-set-out-to-revolutionize-the-ethics-of-ai-chatbots/) | [Correkt.ai](https://correkt.ai/)                    | Web      |
+| [2024-05-27](https://www.reddit.com/r/SideProject/comments/1d20yb8/introducing_mixmyai/)                                                             | [MixMyAI](https://mixmyai.com/)                      | Web      |
+| [2024-06-24](https://www.producthunt.com/products/devv-ai/launches)                                                                                  | [Devv.AI](https://devv.ai)                           | Web      |
+| [2024-07-09](https://www.reddit.com/r/AISearchEngine_miku/)                                                                                          | [Miku AI](https://hellomiku.com/)                    | Web      |
+| [2024-07-16](https://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models/)                                       | [Exa Search](https://exa.ai/search)                  | Web      |
+| [2024-08-06](https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/)                             | [Compute](https://compute.hyper.space/)              | Web      |
+| [2024-09-11](https://blog.iask.ai/hey-were-iask-ai-903c3dcdec39)                                                                                     | [iAsk Ai](http://iask.ai)                            | Web      |
+| [2024-09-24](https://blog.kagi.com/announcing-assistant)                                                                                             | [Kagi Assistant](https://kagi.com/welcome/assistant) | Web      |
