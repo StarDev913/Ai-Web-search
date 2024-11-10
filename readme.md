@@ -6,7 +6,7 @@ The list is organized in a timeline and separated into [Open Source](#open-sourc
 
 ## Open Source
 
-| Initial Commit                                                                                                                | Software                                                                             | Platform | Extra Links                                           |
+| Initial Commit                                                                                                                | Software                                                                             | Platform | Quick Peek                                            |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------- | ----------------------------------------------------- |
 | [2022-12-20](https://github.com/VikParuchuri/researcher/commit/9ef2793dbeeb75a871ac9a171f77b50f1ed00acf)                      | [Researcher](https://github.com/VikParuchuri/researcher)                             | Web      |                                                       |
 | [2023-02-19](https://github.com/mckaywrigley/clarity-ai/commit/868b5259d91aad797a08a192846666a47f71c3c7)                      | [Clarity AI](https://github.com/mckaywrigley/clarity-ai)                             | Web      |                                                       |
