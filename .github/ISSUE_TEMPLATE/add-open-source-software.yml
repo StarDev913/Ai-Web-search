@@ -1,0 +1,24 @@
+name: Add Open Source Software
+description: Suggest an open source software to be added to the list
+body:
+  - type: input
+    id: software-name
+    attributes:
+      label: Software Name
+      description: The name of the open source software
+      placeholder: e.g., Super Cool LLM Search
+    validations:
+      required: true
+  - type: input
+    id: repo-url
+    attributes:
+      label: Repository URL
+      description: Link to the GitHub/GitLab repository
+      placeholder: https://github.com/username/repository
+    validations:
+      required: true
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: If you would like to add any comments or screenshots about the software, please add them here.
