@@ -6,7 +6,6 @@ body:
     attributes:
       label: Software Name
       description: The name of the open source software
-      placeholder: e.g., Super Cool LLM Search
     validations:
       required: true
   - type: input
