@@ -1,5 +1,6 @@
 name: Add Closed Source Software
 description: Suggest a closed source software to be added to the list
+title: Software suggestion
 body:
   - type: input
     id: software-name
@@ -22,16 +23,12 @@ body:
       label: Launch Date
       description: The launch date in YYYY-MM-DD format
       placeholder: "2024-10-29"
-    validations:
-      required: true
   - type: input
     id: date-source
     attributes:
       label: Launch Date Source
       description: Link to an article, blog post, or announcement that confirms the launch date
       placeholder: https://blog.example.com/launch-announcement
-    validations:
-      required: true
   - type: textarea
     id: additional-info
     attributes:

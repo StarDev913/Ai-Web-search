@@ -1,5 +1,6 @@
 name: Add Open Source Software
 description: Suggest an open source software to be added to the list
+title: Software suggestion
 body:
   - type: input
     id: software-name
