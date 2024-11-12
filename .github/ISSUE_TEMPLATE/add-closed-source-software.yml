@@ -5,7 +5,7 @@ body:
     id: software-name
     attributes:
       label: Software Name
-      description: The name of the closed source software
+      description: The name of the software you would like to add
     validations:
       required: true
   - type: input
