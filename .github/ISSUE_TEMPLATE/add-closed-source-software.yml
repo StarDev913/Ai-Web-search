@@ -22,7 +22,7 @@ body:
     attributes:
       label: Launch Date
       description: The launch date in YYYY-MM-DD format
-      placeholder: 2024-10-29
+      placeholder: "2024-10-29"
     validations:
       required: true
   - type: input
