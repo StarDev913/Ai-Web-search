@@ -43,6 +43,7 @@ The list is organized in a timeline and separated into [Open Source](#open-sourc
 
 | Launch Date                                                                                                                                                    | Software                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [2022-03-28](https://news.ycombinator.com/item?id=30832589)                                                                                                    | [Andi](https://andisearch.com/)                      |
 | [2022-12-07](https://news.ycombinator.com/item?id=33897884)                                                                                                    | [Perplexity](https://perplexity.ai)                  |
 | [2022-12-23](https://news.ycombinator.com/item?id=34110738)                                                                                                    | [You.com](http://you.com)                            |
 | [2023-02-21](https://news.ycombinator.com/item?id=34884338)                                                                                                    | [Phind](https://www.phind.com/)                      |
