@@ -111,3 +111,7 @@ The list is organized as a timeline, containing software that support the follow
 | [2024-12-11](https://blog.google/products/gemini/google-gemini-deep-research/)                                                                                 | [Gemini Deep Research](https://gemini.google/advanced) |
 | [2024-12-29](https://news.ycombinator.com/item?id=42540979)                                                                                                    | [Graphthem](https://graphthem.com/)                    |
 | [2025-02-02](https://openai.com/index/introducing-deep-research/)                                                                                              | [ChatGPT Deep Research](https://chatgpt.com/)          |
+
+
+
+
